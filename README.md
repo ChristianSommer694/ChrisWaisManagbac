@@ -1,3 +1,3 @@
 # ChrisWaisManagbac
 Home Page
-:Welcome, I am Awsome
+:Welcome, I am Awesome
