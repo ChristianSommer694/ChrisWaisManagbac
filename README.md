@@ -1,6 +1,6 @@
 # ChrisWaisManagbac
 Home Page
-:Welcome to my home page!😛
+:Welcome to my home page!
 # Design & CS Courses at WAIS
 ###### With S.Wegscheid
 
