@@ -1,7 +1,7 @@
 # ChrisWaisManagbac
 
 :Welcome to my home page!
-https://github.com/ChristianSommer694/Christian-Sommer/blob/master/01c01c45cb997f16675c5a5825645ceb--funny-happy-birthdays-pictures-of.jpg
+
 # Design & CS Courses at WAIS
 ###### With S.Wegscheid
 
