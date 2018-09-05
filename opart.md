@@ -6,7 +6,7 @@ Op art is short for 'optical art'. The word optical is used to describe things t
 Op art works in a similar way.
 Artists use shapes, colours and patterns in special ways to create images that look as if they are moving or blurring. 
 Op art started in the 1960s and the painting above is by Bridget Riley who is one of the main op artists.
-![alt text](https://www.tate.org.uk/kids/explore/what-is/op-art)
+![alt text](https://www.tate.org.uk/kids/explore/what-is/op-art.jpg)
 Op art, also called optical art, branch of mid-20th-century geometric abstract art that deals with optical illusion. Achieved through the systematic 
 and precise manipulation of shapes and colours, the effects of Op art can be based either on perspective 
 illusion or on chromatic tension; in painting, the dominant medium of Op art, the surface tension is usually maximized to
