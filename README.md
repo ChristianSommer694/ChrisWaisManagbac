@@ -32,3 +32,4 @@
 * ~~Yearbook 3~~
 [What is art] (https://github.com/ChristianSommer694/Christian-Sommer/blob/master/People%20of%20Interest.md)
 [Op Artists ](https://github.com/ChristianSommer694/Christian-Sommer/edit/master/Opartists)
+[People to Know](https://github.com/ChristianSommer694/Christian-Sommer/blob/master/People%20to%20know.md)
